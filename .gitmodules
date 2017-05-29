@@ -1,6 +1,6 @@
 [submodule "server"]
 	path = server
-	url = https://576ac2b2c61babd5047a0c3d34ba7e0adc243554:x-oauth-basic@github.com/JavierPardo/ServerSimpleSite.git
+	url = https://github.com/JavierPardo/ServerSimpleSite.git
 [submodule "client"]
 	path = client
-	url = https://576ac2b2c61babd5047a0c3d34ba7e0adc243554:x-oauth-basic@github.com/JavierPardo/ClientSimpleSite.git
+	url = https://github.com/JavierPardo/ClientSimpleSite.git
