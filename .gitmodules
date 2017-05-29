@@ -4,3 +4,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/JavierPardo/ClientSimpleSite.git
+[submodule "modules/commonCore"]
+	path = modules/commonCore
+	url = https://github.com/JavierPardo/CommonCore.git
